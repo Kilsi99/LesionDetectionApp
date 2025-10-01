@@ -1,0 +1,383 @@
+2025-09-27 16:58:17,429 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 16:58:17,460 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:02:04,829 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:02:04,831 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:02:24,406 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:02:24,562 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:04:34,883 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:04:35,035 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:05:14,516 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 17:05:14,516 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 17:05:14,518 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 17:05:14,518 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 17:21:18,904 - ERROR - app.services.classification_service - Classification failed: Can't call numpy() on Tensor that requires grad. Use tensor.detach().numpy() instead.
+2025-09-27 17:21:38,688 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=52213.0, Diameter=257.83648681640625
+2025-09-27 17:21:51,437 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=52213.0, Diameter=257.83648681640625
+2025-09-27 17:24:00,623 - ERROR - app.services.classification_service - Classification failed: Can't call numpy() on Tensor that requires grad. Use tensor.detach().numpy() instead.
+2025-09-27 17:29:04,388 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:29:05,635 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 17:29:05,635 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 17:29:19,938 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:29:20,671 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 17:29:20,671 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 17:29:53,154 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:29:53,738 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 17:29:53,738 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 17:30:06,586 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:30:07,321 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 17:30:07,321 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 17:33:03,405 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:33:04,543 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 17:33:04,543 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 17:33:24,356 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:33:25,548 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 17:33:25,548 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 17:36:17,721 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:36:17,721 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 17:36:19,022 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 17:36:19,022 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 17:36:19,022 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 17:36:19,022 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 17:37:36,405 - ERROR - app.services.classification_service - Classification failed: X has 3 features, but RandomForestClassifier is expecting 19 features as input.
+2025-09-27 18:03:28,175 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 18:06:02,097 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 18:07:29,126 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 18:07:29,126 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 18:08:10,392 - ERROR - app.services.classification_service - Classification failed: Specifying the columns using strings is only supported for dataframes.
+2025-09-27 18:18:23,842 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 18:18:25,093 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 18:18:25,093 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 18:19:51,516 - ERROR - app.services.classification_service - Classification failed: ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+2025-09-27 19:14:11,787 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 19:18:12,863 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 19:18:12,864 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 19:22:28,172 - ERROR - app.services.classification_service - Classification failed: ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+2025-09-27 19:22:30,649 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=33976.0, Diameter=207.98939514160156
+2025-09-27 19:41:18,603 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 19:45:19,532 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 19:45:19,532 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 19:45:33,786 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 19:45:34,801 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 19:45:34,801 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 19:47:00,001 - ERROR - app.services.classification_service - Classification failed: ufunc 'isnan' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+2025-09-27 19:50:20,058 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 19:50:20,755 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 19:50:20,755 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 19:51:14,165 - ERROR - app.services.classification_service - Classification failed: columns are missing: {'localization'}
+2025-09-27 19:53:54,541 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 19:53:55,573 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 19:53:55,573 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 19:54:34,628 - ERROR - app.services.classification_service - Classification failed: Found unknown categories ['1'] in column 0 during transform
+2025-09-27 20:01:49,518 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 20:01:50,509 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 20:01:50,509 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 20:02:27,818 - ERROR - app.services.classification_service - Classification failed: can't multiply sequence by non-int of type 'float'
+2025-09-27 20:05:32,298 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 20:05:33,001 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 20:05:33,001 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 20:06:10,040 - INFO - app.services.classification_service - Image: Benign keratosis-like lesions, Metadata: Vascular lesions, Combined: Vascular lesions
+2025-09-27 20:09:17,747 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=65359.0, Diameter=288.4747314453125
+2025-09-27 20:22:30,645 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 20:30:58,563 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 20:31:00,559 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 20:31:00,559 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 20:31:12,891 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=65359, Diameter=288.4747188305164
+2025-09-27 20:33:07,858 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-27 20:33:08,323 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-27 20:33:09,456 - ERROR - app.services.gradcam_service - Grad-CAM generation failed: Can't call numpy() on Tensor that requires grad. Use tensor.detach().numpy() instead.
+2025-09-27 20:33:09,456 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: 'dict' object has no attribute 'tolist'
+2025-09-27 20:48:27,308 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 20:52:28,519 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 20:52:28,520 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 20:53:05,369 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-27 20:53:05,944 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-27 20:53:07,195 - ERROR - app.services.gradcam_service - Grad-CAM generation failed: Can't call numpy() on Tensor that requires grad. Use tensor.detach().numpy() instead.
+2025-09-27 21:04:53,810 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 21:04:54,878 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 21:04:54,878 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 21:05:09,477 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-27 21:05:10,052 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-27 21:05:11,283 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-27 21:06:59,161 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-27 21:06:59,478 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-27 21:07:00,294 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-27 21:09:13,076 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-27 21:09:14,882 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-27 21:09:14,882 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-27 21:09:20,161 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-27 21:09:20,618 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-27 21:09:22,443 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 09:02:27,573 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 09:02:28,270 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 09:02:29,303 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 09:03:18,336 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 10:53:20,244 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 10:53:21,138 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 10:53:21,138 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 10:53:37,427 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 10:53:38,138 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 10:53:38,138 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 11:03:44,670 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 11:07:45,658 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 11:07:45,658 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 11:08:00,997 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 11:08:01,713 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 11:08:01,713 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 11:08:23,783 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=66712, Diameter=291.4452890481714
+2025-09-28 11:08:45,065 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=22767, Diameter=170.25817077305115
+2025-09-28 11:09:05,612 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=77992, Diameter=315.1229895976884
+2025-09-28 11:09:19,182 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=130121, Diameter=407.0321888997037
+2025-09-28 11:54:16,652 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 11:54:17,715 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 11:54:17,715 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 11:54:59,937 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x00000137A5A4B0B0>
+2025-09-28 11:55:09,050 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=89833, Diameter=338.1995387669739
+2025-09-28 11:55:17,299 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=89833, Diameter=338.1995387669739
+2025-09-28 11:55:19,473 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x00000137A5976F70>
+2025-09-28 11:55:27,583 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x00000137A5B3C6D0>
+2025-09-28 11:56:38,966 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 11:56:40,084 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 11:56:40,085 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 11:57:42,067 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=89833, Diameter=338.1995387669739
+2025-09-28 11:57:45,867 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=3289, Diameter=64.7123238852844
+2025-09-28 11:58:06,066 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000022C50265C60>
+2025-09-28 11:58:09,249 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=66712, Diameter=291.4452890481714
+2025-09-28 11:59:46,738 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 11:59:47,551 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 11:59:47,551 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 12:00:45,229 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=66712, Diameter=291.4452890481714
+2025-09-28 12:00:53,854 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=99310, Diameter=355.5916466786713
+2025-09-28 12:02:45,250 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 12:02:45,983 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 12:02:45,983 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 12:02:55,297 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000023F38F7AA20>
+2025-09-28 12:03:02,217 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000023F38F7BC40>
+2025-09-28 13:36:05,820 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 13:36:07,393 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 13:36:07,393 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 13:37:54,242 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 13:38:27,347 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 13:38:58,241 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 13:38:58,509 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000012D470E1670>
+2025-09-28 13:38:58,516 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000012D472B7EC0>
+2025-09-28 13:39:27,763 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 13:39:58,819 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 13:40:32,134 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 13:41:10,246 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 13:41:10,268 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000012D46E40720>
+2025-09-28 13:41:10,275 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000012D472DC0E0>
+2025-09-28 13:41:10,372 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000012D472DC040>
+2025-09-28 13:41:10,376 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000012D472DC360>
+2025-09-28 13:41:10,386 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000012D472DC040>
+2025-09-28 13:50:12,918 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=36562, Diameter=215.75955189656614
+2025-09-28 13:50:17,487 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=89833, Diameter=338.1995387669739
+2025-09-28 13:51:10,036 - INFO - app.services.classification_service - Image: Melanoma, Metadata: Vascular lesions, Combined: Melanoma
+2025-09-28 13:51:42,964 - INFO - app.services.classification_service - Image: Vascular lesions, Metadata: Vascular lesions, Combined: Vascular lesions
+2025-09-28 13:51:42,979 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000012D470E2E80>
+2025-09-28 13:51:42,979 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000012D470FEF70>
+2025-09-28 14:02:12,606 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 14:02:13,543 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 14:02:13,543 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 14:02:28,733 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 14:02:29,529 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 14:02:29,529 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 14:02:54,659 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=36562, Diameter=215.75955189656614
+2025-09-28 14:03:42,298 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 14:03:42,619 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x000001F2DF2A7B50>
+2025-09-28 14:25:01,941 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 14:29:03,396 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 14:29:03,396 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 14:29:24,596 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 14:29:25,600 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 14:29:25,600 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 14:29:52,007 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=93889, Diameter=345.75018093363263
+2025-09-28 14:30:14,121 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=20425, Diameter=161.26350393444793
+2025-09-28 14:30:31,777 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=20425, Diameter=161.26350393444793
+2025-09-28 14:31:07,286 - INFO - app.services.classification_service - Image: Melanoma, Metadata: Vascular lesions, Combined: Melanoma
+2025-09-28 14:31:07,714 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x0000023C276677E0>
+2025-09-28 14:42:18,932 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 14:46:47,932 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 14:46:48,967 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 14:46:48,967 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 14:48:03,088 - INFO - app.services.classification_service - Image: Melanoma, Metadata: Vascular lesions, Combined: Melanoma
+2025-09-28 14:48:03,254 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x000002122525BFB0>
+2025-09-28 14:48:54,255 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 14:48:55,352 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 14:48:55,352 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 14:50:27,061 - INFO - app.services.classification_service - Image: Melanoma, Metadata: Vascular lesions, Combined: Melanoma
+2025-09-28 14:50:27,213 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x00000226820384F0>
+2025-09-28 14:52:33,478 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 14:52:34,556 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 14:52:34,556 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 14:53:12,247 - INFO - app.services.classification_service - Image: Melanoma, Metadata: Vascular lesions, Combined: Melanoma
+2025-09-28 14:53:12,396 - ERROR - app.routes.gradcam_route - Grad-CAM route failed: cannot identify image file <_io.BytesIO object at 0x000002C8017999E0>
+2025-09-28 14:55:39,100 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 14:55:39,963 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 14:55:39,963 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 14:56:23,909 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 14:56:23,961 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 14:56:24,455 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 14:56:25,476 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 14:56:25,476 - ERROR - app.routes.gradcam_route - Unexpected output type: <class 'dict'>
+2025-09-28 14:58:45,176 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 14:58:46,008 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 14:58:46,008 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 14:59:24,785 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 14:59:24,819 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 14:59:25,103 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 14:59:26,044 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 14:59:26,047 - ERROR - app.routes.gradcam_route - Unexpected output type: <class 'dict'>
+2025-09-28 14:59:42,310 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=51301, Diameter=255.5747676991189
+2025-09-28 15:00:26,209 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 15:00:26,245 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 15:00:26,573 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 15:00:27,376 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 15:00:27,376 - ERROR - app.routes.gradcam_route - Unexpected output type: <class 'dict'>
+2025-09-28 15:02:20,108 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 15:02:20,868 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 15:02:20,868 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 15:03:03,038 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Vascular lesions
+2025-09-28 15:03:03,076 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 15:03:03,383 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 15:03:04,354 - ERROR - app.services.gradcam_service - Grad-CAM generation failed: Unexpected output from GradCAM.generate(): <class 'torch.Tensor'>
+2025-09-28 15:03:04,360 - ERROR - app.routes.gradcam_route - Grad-CAM failed: Unexpected output from GradCAM.generate(): <class 'torch.Tensor'>
+2025-09-28 15:04:18,843 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 15:04:19,599 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 15:04:19,599 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 15:05:12,072 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Vascular lesions
+2025-09-28 15:05:12,108 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 15:05:12,423 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 15:05:13,674 - ERROR - app.services.gradcam_service - Grad-CAM generation failed: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\colormap.cpp:736: error: (-5:Bad argument) cv::ColorMap only supports source images of type CV_8UC1 or CV_8UC3 in function 'cv::colormap::ColorMap::operator ()'
+
+2025-09-28 15:05:13,683 - ERROR - app.routes.gradcam_route - Grad-CAM failed: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\colormap.cpp:736: error: (-5:Bad argument) cv::ColorMap only supports source images of type CV_8UC1 or CV_8UC3 in function 'cv::colormap::ColorMap::operator ()'
+
+2025-09-28 15:06:49,912 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 15:06:51,422 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 15:06:51,423 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 15:07:41,445 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Vascular lesions
+2025-09-28 15:07:41,496 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 15:07:41,791 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 15:07:42,811 - ERROR - app.services.gradcam_service - Grad-CAM generation failed: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\colormap.cpp:736: error: (-5:Bad argument) cv::ColorMap only supports source images of type CV_8UC1 or CV_8UC3 in function 'cv::colormap::ColorMap::operator ()'
+
+2025-09-28 15:07:42,829 - ERROR - app.routes.gradcam_route - Grad-CAM failed: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\colormap.cpp:736: error: (-5:Bad argument) cv::ColorMap only supports source images of type CV_8UC1 or CV_8UC3 in function 'cv::colormap::ColorMap::operator ()'
+
+2025-09-28 15:11:06,817 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 15:11:07,599 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 15:11:07,599 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 15:11:46,703 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 15:11:46,743 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 15:11:47,130 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 15:11:48,207 - ERROR - app.services.gradcam_service - Grad-CAM generation failed: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\colormap.cpp:736: error: (-5:Bad argument) cv::ColorMap only supports source images of type CV_8UC1 or CV_8UC3 in function 'cv::colormap::ColorMap::operator ()'
+
+2025-09-28 15:11:48,213 - ERROR - app.routes.gradcam_route - Grad-CAM failed: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\colormap.cpp:736: error: (-5:Bad argument) cv::ColorMap only supports source images of type CV_8UC1 or CV_8UC3 in function 'cv::colormap::ColorMap::operator ()'
+
+2025-09-28 15:14:21,318 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 15:14:21,995 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 15:14:21,995 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 15:15:02,929 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Vascular lesions
+2025-09-28 15:15:02,965 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 15:15:03,264 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 15:15:04,194 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 15:23:33,124 - INFO - app.services.classification_service - Image: Melanoma, Metadata: Vascular lesions, Combined: Melanoma
+2025-09-28 15:23:33,164 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 15:23:33,526 - INFO - app.services.gradcam_service - Predicted class: 3
+2025-09-28 15:23:34,427 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 15:24:08,082 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=24313, Diameter=175.9439486062138
+2025-09-28 15:29:05,223 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 15:29:06,038 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 15:29:06,038 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 15:29:15,024 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=89833, Diameter=338.1995387669739
+2025-09-28 15:30:21,573 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 15:30:22,323 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 15:30:22,323 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 15:30:44,706 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=66712, Diameter=291.4452890481714
+2025-09-28 15:33:13,366 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 15:33:14,139 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 15:33:14,139 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 15:33:51,322 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=66712, Diameter=291.4452890481714
+2025-09-28 15:41:17,337 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=66712, Diameter=291.4452890481714
+2025-09-28 15:41:22,249 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=49508, Diameter=251.06880208570007
+2025-09-28 15:42:24,976 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 15:42:24,997 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 15:42:25,307 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 15:42:26,330 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 15:48:02,926 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 15:48:04,455 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 15:48:04,455 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 15:49:01,915 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 15:49:01,956 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 15:49:02,665 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 15:49:04,548 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 16:05:49,819 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 16:09:51,115 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 16:09:51,115 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 16:10:22,633 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=103611, Diameter=363.21016294915944
+2025-09-28 16:10:57,494 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 16:10:57,532 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 16:10:57,993 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 16:10:58,951 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 16:23:11,114 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 16:23:12,284 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 16:23:12,284 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 16:23:59,430 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 16:23:59,473 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 16:23:59,785 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 16:24:00,996 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 16:24:28,752 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=51301, Diameter=255.5747676991189
+2025-09-28 16:25:50,276 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 16:25:51,394 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 16:25:51,395 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 16:26:37,868 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 16:29:53,071 - INFO - app.services.classification_service - Image: Vascular lesions, Metadata: Vascular lesions, Combined: Vascular lesions
+2025-09-28 16:29:53,104 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 16:29:53,379 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 16:29:54,368 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 16:31:44,410 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 16:31:45,537 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 16:31:45,537 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 16:32:23,536 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Vascular lesions
+2025-09-28 16:32:23,577 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 16:32:23,885 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 16:32:24,921 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 17:10:26,685 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-28 17:10:27,735 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-28 17:10:27,735 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-28 17:13:24,519 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=36562, Diameter=215.75955189656614
+2025-09-28 17:41:56,480 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Vascular lesions, Combined: Melanocytic nevi
+2025-09-28 17:41:56,561 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 17:41:58,061 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 17:42:00,137 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-28 21:50:33,827 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=55643, Diameter=266.17074968466886
+2025-09-28 21:51:28,072 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Actinic keratoses / intraepithelial carcinoma, Combined: Melanocytic nevi
+2025-09-28 21:51:28,115 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-28 21:51:28,956 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-28 21:51:30,555 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-29 03:54:04,855 - INFO - app.services.classification_service - Image: Melanocytic nevi, Metadata: Actinic keratoses / intraepithelial carcinoma, Combined: Melanocytic nevi
+2025-09-29 03:54:04,890 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-29 03:54:05,638 - INFO - app.services.gradcam_service - Predicted class: 0
+2025-09-29 03:54:06,940 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-29 10:03:17,466 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=73104, Diameter=305.0883538883766
+2025-09-29 10:03:51,617 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=4135164, Diameter=2294.570619694507
+2025-09-29 10:04:23,749 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=421621, Diameter=732.6831034565927
+2025-09-29 10:04:44,773 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=1644363, Diameter=1446.9512768228744
+2025-09-29 10:05:07,804 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=91921, Diameter=342.1073693909573
+2025-09-29 10:05:28,154 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=506887, Diameter=803.3607988395827
+2025-09-29 10:06:04,037 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=2261930, Diameter=1697.0500061644639
+2025-09-29 10:16:34,204 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=337200, Diameter=655.237647334688
+2025-09-29 10:16:51,001 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=1314667, Diameter=1293.787468079028
+2025-09-29 10:55:22,143 - INFO - app.services.classification_service - Image: Dermatofibroma, Metadata: Vascular lesions, Combined: Dermatofibroma
+2025-09-29 10:55:22,396 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-29 10:55:22,830 - INFO - app.services.gradcam_service - Predicted class: 2
+2025-09-29 10:55:26,144 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-09-29 20:38:30,176 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-09-29 20:42:31,542 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-09-29 20:42:31,542 - INFO - app.main - Segmentation model loaded at startup.
+2025-09-29 20:43:01,228 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=276678, Diameter=593.5295870959048
+2025-09-29 20:45:18,407 - INFO - app.services.classification_service - Image: Melanoma, Metadata: Vascular lesions, Combined: Melanoma
+2025-09-29 20:45:18,437 - INFO - app.services.gradcam_service - Grad-CAM request received
+2025-09-29 20:45:18,831 - INFO - app.services.gradcam_service - Predicted class: 1
+2025-09-29 20:45:20,000 - INFO - app.services.gradcam_service - Grad-CAM generated successfully
+2025-10-01 20:43:55,826 - INFO - app.main - Starting Medical Lesion Analysis API...
+2025-10-01 20:43:56,736 - INFO - app.services.segmentation_service - Segmentation model loaded successfully
+2025-10-01 20:43:56,737 - INFO - app.main - Segmentation model loaded at startup.
+2025-10-01 20:44:36,196 - INFO - app.services.segmentation_service - Segmentation successful: Lesion area=53580, Diameter=261.18992095199616
