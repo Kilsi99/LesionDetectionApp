@@ -23,10 +23,10 @@ SkinLesionAI performs:
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/SkinLesionAI.git
-cd SkinLesionAI
+git clone https://github.com/Kilsi99/LesionDetectionApp.git
+cd LesionDetectionApp
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run frontend/app.py
 ```
 
 ## Usage
